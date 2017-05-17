@@ -13,4 +13,4 @@ All you have to do is :
 
 * By default the application subscribes to the topic general (send message to /topics/general with your FCM server)
 * His token is log in Android Monitor/logs if you want to send just a message to this application
-* Display a notifiction with the title and the body defined using the Firebase's Notification
+* Display a notification with the title and the body defined using the Firebase's Notification
